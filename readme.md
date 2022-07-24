@@ -15,7 +15,7 @@ mark the spaces on a 3×3 board.
 - first player to create a row of tokens the length of the board wins
 - size of gameboard customisable in browser
 
-**Live Demo:** [Tropicoe](https://hftay.github.io/tropicoe/)
+**Live Demo:** [Tic-Tac-Toe](https://tic-tac-toe-454.herokuapp.com/)
 
 Technical Requirement:
 
