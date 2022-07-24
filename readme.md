@@ -1,4 +1,4 @@
-## Tic Tac Toe Game:
+![Tic Tac Toe Game](/Tic_Tac_Toe.png)
 
 The three in line, also known as zeros and crosses,
 three in a row, little cross, michi, triqui, squares,
