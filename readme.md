@@ -1,5 +1,7 @@
 ![Tic Tac Toe Game](/Tic_Tac_Toe.png)
 
+## Tic Tac Toe Game:
+
 The three in line, also known as zeros and crosses,
 three in a row, little cross, michi, triqui, squares,
 game of the cat, cat, tatetí, totito, triqui traka,
@@ -7,7 +9,7 @@ X zero, tic-tac-toe or the old is a pencil and paper
 game between two players: O and X, who alternately
 mark the spaces on a 3×3 board.
 
-### Game Objective
+### Game Objective:
 
 - two player take turns to place their token on a gameboard
 - first player to create a row of tokens the length of the board wins
